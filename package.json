@@ -9,7 +9,7 @@
   "author": "lizhengxue",
   "license": "ISC",
   "dependencies": {
-    "echarts": "^3.3.2"
+    "echarts": "^5.5.1"
   },
   "devDependencies": {},
   "repository": {
